@@ -6,3 +6,4 @@ public class User {
     private ArrayList<Photo> photos;
     private Address address;
 
+}
